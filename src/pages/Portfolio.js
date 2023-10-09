@@ -9,28 +9,28 @@ const Portfolio = () => {
       img: One,
       pretitle: "XYZ Project",
       title: "Wordpress Customization",
-      link: "https://facebok.com/"
+      link: "https://www.instagram.com/"
     },
     {
       id: 2,
       img: Two,
       pretitle: "XYZ Studios",
       title: "MERN Customization",
-      link: "https://instagram.com/"
+      link: "https://www.instagram.com/"
     },
     {
       id: 3,
       img: One,
       pretitle: "XYZ Animation",
       title: "Shopify Customization",
-      link: "https://pinterest.com/"
+      link: "https://www.instagram.com/"
     },
     {
       id: 4,
       img: Two,
       pretitle: "Chris Photography",
       title: "Webflow Customization",
-      link: "https://youtube.com/"
+      link: "https://www.instagram.com/"
     },
     {
       id: 5,
@@ -44,7 +44,7 @@ const Portfolio = () => {
       img: Two,
       pretitle: "Warehouse Website",
       title: "Fullstack Development",
-      link: "https://instagram.com/",
+      link: "https://www.instagram.com/",
     },
     {
       id: 7,
@@ -58,7 +58,7 @@ const Portfolio = () => {
       img: Two,
       pretitle: "Empanada Shopping Mall",
       title: "Shopify Customization",
-      link: "https://www.pinterest.com/"
+      link: "https://www.instagram.com/"
     }
   
   ]
